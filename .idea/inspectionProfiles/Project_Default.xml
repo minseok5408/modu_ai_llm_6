@@ -1,0 +1,83 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="absl-py" />
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="astunparse" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="cmdstanpy" />
+          <option value="colorama" />
+          <option value="contourpy" />
+          <option value="cycler" />
+          <option value="Cython" />
+          <option value="fastapi" />
+          <option value="flatbuffers" />
+          <option value="fonttools" />
+          <option value="gast" />
+          <option value="google-pasta" />
+          <option value="grpcio" />
+          <option value="h11" />
+          <option value="h5py" />
+          <option value="holidays" />
+          <option value="idna" />
+          <option value="importlib_resources" />
+          <option value="joblib" />
+          <option value="keras" />
+          <option value="kiwisolver" />
+          <option value="libclang" />
+          <option value="Markdown" />
+          <option value="markdown-it-py" />
+          <option value="MarkupSafe" />
+          <option value="matplotlib" />
+          <option value="mdurl" />
+          <option value="ml_dtypes" />
+          <option value="namex" />
+          <option value="numpy" />
+          <option value="opt_einsum" />
+          <option value="optree" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="patsy" />
+          <option value="pillow" />
+          <option value="pmdarima" />
+          <option value="prophet" />
+          <option value="protobuf" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="Pygments" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="requests" />
+          <option value="rich" />
+          <option value="scikit-learn" />
+          <option value="scipy" />
+          <option value="setuptools" />
+          <option value="six" />
+          <option value="stanio" />
+          <option value="starlette" />
+          <option value="statsmodels" />
+          <option value="tensorboard" />
+          <option value="tensorboard-data-server" />
+          <option value="tensorflow" />
+          <option value="termcolor" />
+          <option value="threadpoolctl" />
+          <option value="tqdm" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="Werkzeug" />
+          <option value="wrapt" />
+          <option value="xgboost" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
