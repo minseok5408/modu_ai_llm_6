@@ -113,7 +113,7 @@
       <td rowspan="5">4주차<br>(유닛4)</td>
       <td>26. 3. 31</td>
       <td>16</td>
-      <td rowspan="10">[프로젝트2]<br>검색형 RAG 기반 금융 상품 추천 시스템 구현</td>
+      <td rowspan="15">[프로젝트2]<br>검색형 RAG 기반 금융 상품 추천 시스템 구현</td>
       <td rowspan="5">RAG 검색 성능 평가 및 개선</td>
       <td>[프로젝트2] 안내 + RAG 성능평가 개요</td>
       <td>2.5</td>
@@ -179,7 +179,6 @@
       <td>26. 4. 14</td>
       <td>26</td>
       <td rowspan="5">금융 상품(ETF) 추천 RAG 시스템 구현</td>
-      <td rowspan="5"></td>
       <td>추천 시스템 - 데이터 수집 및 전처리 (시장, 상품 데이터)</td>
       <td>2.5</td>
     </tr>
@@ -211,7 +210,7 @@
       <td rowspan="5">7주차<br>(유닛7)</td>
       <td>26. 4. 21</td>
       <td>31</td>
-      <td rowspan="5">[프로젝트3]<br>법률 문서 기반 검색 에이전트 시스템 구축</td>
+      <td rowspan="16">[프로젝트3]<br>법률 문서 기반 검색 에이전트 시스템 구축</td>
       <td rowspan="5">LangChain 도구 (Tool) 활용</td>
       <td>[프로젝트3] 안내 + Tool Calling (Function Calling) + 에이전트(Agent) 개념</td>
       <td>2.5</td>
@@ -245,7 +244,6 @@
       <td>26. 4. 28</td>
       <td>36</td>
       <td rowspan="5">LangGraph 에이전트 (Agent) 활용</td>
-      <td rowspan="5"></td>
       <td>LangGraph 활용 - 상태 그래프 구현</td>
       <td>2.5</td>
     </tr>
@@ -280,14 +278,12 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td rowspan="5">9주차<br>(유닛9)</td>
       <td>26. 5. 12</td>
       <td>41</td>
       <td rowspan="5">Agent 기반의 RAG 구현</td>
-      <td rowspan="5"></td>
       <td>Adaptive RAG 구현 1</td>
       <td>2.5</td>
     </tr>
@@ -319,7 +315,7 @@
       <td rowspan="5">10주차<br>(유닛10)</td>
       <td>26. 5. 19</td>
       <td>46</td>
-      <td rowspan="5">[프로젝트4]<br>생성형 AI를 활용한 비정형 문서 기반의 RAG 서비스 구축</td>
+      <td rowspan="16">[프로젝트4]<br>생성형 AI를 활용한 비정형 문서 기반의 RAG 서비스 구축</td>
       <td rowspan="5">비정형 문서 처리</td>
       <td>[프로젝트4] 안내 + 언어모델 파인튜닝 1</td>
       <td>2.5</td>
@@ -353,7 +349,6 @@
       <td>26. 5. 26</td>
       <td>51</td>
       <td rowspan="5">멀티모달 RAG</td>
-      <td rowspan="5"></td>
       <td>이미지-텍스트 통합 처리 개요</td>
       <td>2.5</td>
     </tr>
@@ -388,14 +383,12 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td rowspan="5">12주차<br>(유닛12)</td>
       <td>26. 6. 9</td>
       <td>56</td>
       <td rowspan="5">Graph RAG</td>
-      <td rowspan="5"></td>
       <td>그래프 데이터베이스 이해</td>
       <td>2.5</td>
     </tr>
