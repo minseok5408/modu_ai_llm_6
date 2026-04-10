@@ -1,0 +1,302 @@
+[
+  {
+    "query": "KODEX 200 ETF에 대해 알려줘",
+    "relevant_doc_ids": [
+      0
+    ],
+    "relevant_doc_names": [
+      "KODEX 200"
+    ],
+    "category": "국내주식"
+  },
+  {
+    "query": "KOSPI 200 지수를 추종하는 ETF가 뭐야?",
+    "relevant_doc_ids": [
+      0
+    ],
+    "relevant_doc_names": [
+      "KODEX 200"
+    ],
+    "category": "국내주식"
+  },
+  {
+    "query": "국내 주식시장에 투자할 수 있는 ETF 추천해줘",
+    "relevant_doc_ids": [
+      0
+    ],
+    "relevant_doc_names": [
+      "KODEX 200"
+    ],
+    "category": "국내주식"
+  },
+  {
+    "query": "TIGER 미국 S&P500 ETF에 대한 정보가 궁금해요.",
+    "relevant_doc_ids": [
+      1
+    ],
+    "relevant_doc_names": [
+      "TIGER 미국 S&P500"
+    ],
+    "category": "해외주식"
+  },
+  {
+    "query": "미국 S&P500 지수를 추종하는 ETF를 찾고 있어요.",
+    "relevant_doc_ids": [
+      1
+    ],
+    "relevant_doc_names": [
+      "TIGER 미국 S&P500"
+    ],
+    "category": "해외주식"
+  },
+  {
+    "query": "환헤지 미적용인 해외주식 ETF가 뭐가 있을까요?",
+    "relevant_doc_ids": [
+      1
+    ],
+    "relevant_doc_names": [
+      "TIGER 미국 S&P500"
+    ],
+    "category": "해외주식"
+  },
+  {
+    "query": "KODEX 미국나스닥100 ETF에 투자하려면 어떻게 해야 하나요?",
+    "relevant_doc_ids": [
+      2
+    ],
+    "relevant_doc_names": [
+      "KODEX 미국나스닥100"
+    ],
+    "category": "해외주식"
+  },
+  {
+    "query": "나스닥100 지수를 추종하는 ETF는 어떤 것들이 있나요?",
+    "relevant_doc_ids": [
+      2
+    ],
+    "relevant_doc_names": [
+      "KODEX 미국나스닥100"
+    ],
+    "category": "해외주식"
+  },
+  {
+    "query": "기술 성장주에 투자하는 KODEX 미국나스닥100의 특징은 무엇인가요?",
+    "relevant_doc_ids": [
+      2
+    ],
+    "relevant_doc_names": [
+      "KODEX 미국나스닥100"
+    ],
+    "category": "해외주식"
+  },
+  {
+    "query": "KODEX 국고채 10년 ETF에 대해 설명해 주세요.",
+    "relevant_doc_ids": [
+      3
+    ],
+    "relevant_doc_names": [
+      "KODEX 국고채 10년"
+    ],
+    "category": "채권"
+  },
+  {
+    "query": "대한민국 10년 만기 국고채를 추종하는 ETF는 어떤 특징이 있나요?",
+    "relevant_doc_ids": [
+      3
+    ],
+    "relevant_doc_names": [
+      "KODEX 국고채 10년"
+    ],
+    "category": "채권"
+  },
+  {
+    "query": "안정적인 채권 투자에 적합한 ETF 추천해 주세요.",
+    "relevant_doc_ids": [
+      3
+    ],
+    "relevant_doc_names": [
+      "KODEX 국고채 10년"
+    ],
+    "category": "채권"
+  },
+  {
+    "query": "TIGER 금은혼합 ETF에 대해 알고 싶어요.",
+    "relevant_doc_ids": [
+      4
+    ],
+    "relevant_doc_names": [
+      "TIGER 금은혼합"
+    ],
+    "category": "원자재"
+  },
+  {
+    "query": "이 ETF는 어떤 원자재에 투자하나요?",
+    "relevant_doc_ids": [
+      4
+    ],
+    "relevant_doc_names": [
+      "TIGER 금은혼합"
+    ],
+    "category": "원자재"
+  },
+  {
+    "query": "인플레이션 헤지 수단으로 TIGER 금은혼합을 어떻게 활용할 수 있나요?",
+    "relevant_doc_ids": [
+      4
+    ],
+    "relevant_doc_names": [
+      "TIGER 금은혼합"
+    ],
+    "category": "원자재"
+  },
+  {
+    "query": "KODEX 한국부동산리츠인프라 ETF에 대한 정보는?",
+    "relevant_doc_ids": [
+      5
+    ],
+    "relevant_doc_names": [
+      "KODEX 한국부동산리츠인프라"
+    ],
+    "category": "부동산"
+  },
+  {
+    "query": "이 ETF는 어떤 종류의 자산에 투자하나요?",
+    "relevant_doc_ids": [
+      5
+    ],
+    "relevant_doc_names": [
+      "KODEX 한국부동산리츠인프라"
+    ],
+    "category": "부동산"
+  },
+  {
+    "query": "부동산 리츠에 투자하는 ETF 중에서 KODEX의 특징은 무엇인가요?",
+    "relevant_doc_ids": [
+      5
+    ],
+    "relevant_doc_names": [
+      "KODEX 한국부동산리츠인프라"
+    ],
+    "category": "부동산"
+  },
+  {
+    "query": "KODEX 2차전지산업 ETF에 어떤 기업들이 포함되어 있나요?",
+    "relevant_doc_ids": [
+      6
+    ],
+    "relevant_doc_names": [
+      "KODEX 2차전지산업"
+    ],
+    "category": "테마"
+  },
+  {
+    "query": "2차전지와 관련된 투자 ETF를 찾고 싶어요.",
+    "relevant_doc_ids": [
+      6
+    ],
+    "relevant_doc_names": [
+      "KODEX 2차전지산업"
+    ],
+    "category": "테마"
+  },
+  {
+    "query": "전기차 시장 성장에 투자할 수 있는 ETF는 무엇인가요?",
+    "relevant_doc_ids": [
+      6
+    ],
+    "relevant_doc_names": [
+      "KODEX 2차전지산업"
+    ],
+    "category": "테마"
+  },
+  {
+    "query": "TIGER 미국배당다우존스 ETF에 대해 알고 싶어요.",
+    "relevant_doc_ids": [
+      7
+    ],
+    "relevant_doc_names": [
+      "TIGER 미국배당다우존스"
+    ],
+    "category": "배당"
+  },
+  {
+    "query": "미국 고배당 주식에 투자하는 ETF가 어떤 건가요?",
+    "relevant_doc_ids": [
+      7
+    ],
+    "relevant_doc_names": [
+      "TIGER 미국배당다우존스"
+    ],
+    "category": "배당"
+  },
+  {
+    "query": "이 ETF의 배당 지급 방식은 어떻게 되나요?",
+    "relevant_doc_ids": [
+      7
+    ],
+    "relevant_doc_names": [
+      "TIGER 미국배당다우존스"
+    ],
+    "category": "배당"
+  },
+  {
+    "query": "KODEX 코스닥150 ETF의 주요 투자 분야는 무엇인가요?",
+    "relevant_doc_ids": [
+      8
+    ],
+    "relevant_doc_names": [
+      "KODEX 코스닥150"
+    ],
+    "category": "국내주식"
+  },
+  {
+    "query": "코스닥150 지수를 추종하는 ETF는 어떤 특징이 있나요?",
+    "relevant_doc_ids": [
+      8
+    ],
+    "relevant_doc_names": [
+      "KODEX 코스닥150"
+    ],
+    "category": "국내주식"
+  },
+  {
+    "query": "KODEX 코스닥150의 투자 성향은 어떻게 되나요?",
+    "relevant_doc_ids": [
+      8
+    ],
+    "relevant_doc_names": [
+      "KODEX 코스닥150"
+    ],
+    "category": "국내주식"
+  },
+  {
+    "query": "KOSEF 단기자금 ETF의 투자 특징은 무엇인가요?",
+    "relevant_doc_ids": [
+      9
+    ],
+    "relevant_doc_names": [
+      "KOSEF 단기자금"
+    ],
+    "category": "머니마켓"
+  },
+  {
+    "query": "이 ETF는 어떤 자산에 투자하나요?",
+    "relevant_doc_ids": [
+      9
+    ],
+    "relevant_doc_names": [
+      "KOSEF 단기자금"
+    ],
+    "category": "머니마켓"
+  },
+  {
+    "query": "원금 손실 위험이 낮은 ETF를 찾고 있는데, KOSEF 단기자금은 어떤가요?",
+    "relevant_doc_ids": [
+      9
+    ],
+    "relevant_doc_names": [
+      "KOSEF 단기자금"
+    ],
+    "category": "머니마켓"
+  }
+]

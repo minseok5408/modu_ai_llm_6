@@ -1,0 +1,78 @@
+{
+  "초보": {
+    "description": "투자 경험이 거의 없고, 원금 보존을 최우선시하는 투자자",
+    "queries": [
+      {
+        "query": "안전한 투자 상품 추천해주세요",
+        "expected_category": [
+          "채권",
+          "머니마켓"
+        ]
+      },
+      {
+        "query": "원금 손실 위험 없는 ETF",
+        "expected_category": [
+          "머니마켓"
+        ]
+      },
+      {
+        "query": "적금보다 나은 안전한 투자",
+        "expected_category": [
+          "채권",
+          "배당"
+        ]
+      }
+    ]
+  },
+  "중급": {
+    "description": "기본적인 투자 지식이 있고, 적절한 위험을 감수하며 자산 증식을 추구하는 투자자",
+    "queries": [
+      {
+        "query": "S&P500 추종 ETF 비교",
+        "expected_category": [
+          "해외주식"
+        ]
+      },
+      {
+        "query": "배당과 성장 균형 잡힌 포트폴리오",
+        "expected_category": [
+          "배당",
+          "국내주식"
+        ]
+      },
+      {
+        "query": "분산투자 가능한 ETF 조합",
+        "expected_category": [
+          "국내주식",
+          "해외주식",
+          "채권"
+        ]
+      }
+    ]
+  },
+  "전문": {
+    "description": "투자 경험이 풍부하고, 높은 수익을 위해 높은 변동성을 감수할 수 있는 투자자",
+    "queries": [
+      {
+        "query": "AI 반도체 관련 ETF 섹터 분석",
+        "expected_category": [
+          "테마",
+          "해외주식"
+        ]
+      },
+      {
+        "query": "레버리지 ETF 단기 트레이딩 전략",
+        "expected_category": [
+          "레버리지"
+        ]
+      },
+      {
+        "query": "나스닥100 vs 코스닥150 변동성 비교",
+        "expected_category": [
+          "해외주식",
+          "국내주식"
+        ]
+      }
+    ]
+  }
+}
